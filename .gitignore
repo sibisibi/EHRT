@@ -1,0 +1,9 @@
+data
+output
+src/EHRDiff
+src/GT-BEHRT
+wandb
+
+**/__pycache__
+*.egg-info/
+*.ipynb
