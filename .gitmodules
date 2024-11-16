@@ -1,0 +1,3 @@
+[submodule "src/pyhealth"]
+	path = src/pyhealth
+	url = https://github.com/sunlabuiuc/PyHealth.git
