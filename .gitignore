@@ -1,6 +1,7 @@
 data
 output
 src/EHRDiff
+src/pyhealth
 src/GT-BEHRT
 wandb
 

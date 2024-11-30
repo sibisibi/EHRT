@@ -1,3 +1,6 @@
 [submodule "src/pyhealth"]
 	path = src/pyhealth
 	url = https://github.com/sibisibi/PyHealth.git
+[submodule "src/EHRDiff"]
+	path = src/EHRDiff
+	url = https://github.com/sibisibi/EHRDiff.git
